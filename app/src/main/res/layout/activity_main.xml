@@ -11,14 +11,14 @@
 <EditText
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:id="@+id/et-1"
+    android:id="@+id/et_1"
     android:layout_margin="20dp"
     android:hint="Enter a"
     />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/et-2"
+        android:id="@+id/et_2"
         android:layout_margin="20dp"
         android:hint="Enter b"
         />
@@ -56,6 +56,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/result"
+        android:id="@+id/result_tv"
         android:textSize="24sp"
         android:layout_margin="20dp"
         android:layout_gravity="center"
