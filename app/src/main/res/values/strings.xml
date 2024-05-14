@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firstAndroid</string>
+    <string name="div">Div</string>
+    <string name="result">Result</string>
+    <string name="multiply">Multiply</string>
+    <string name="subtract">Subtract</string>
+    <string name="add">Add</string>
+</resources>
